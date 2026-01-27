@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-**Live Demo:** [https://naimul.wuaze.com/](https://naimul.wuaze.com/)
+**Live Demo:** [https://naimul.wuaze.com/](https://naimul.wuaze.com)
 
 This repository hosts a **personal portfolio website** built to showcase the developer’s skills, projects, achievements, and contact information. The website is fully responsive, interactive, and designed to provide a clean, professional presentation for visitors.
 
@@ -65,7 +65,7 @@ git clone https://github.com/mdnaimul404/Portfolio.git
 
 4. **Live Demo**
 
-* Visit [https://naimul.wuaze.com/](https://naimul.wuaze.com/) to see the live portfolio
+* Visit [https://naimul.wuaze.com/](https://naimul.wuaze.com) to see the live portfolio
 
 ---
 
