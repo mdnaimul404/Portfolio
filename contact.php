@@ -165,6 +165,7 @@
     function isValidGmail(email) {
         // Strict Gmail validation: lowercase or uppercase letters, digits, dots allowed before @gmail.com
         // Change regex as needed, here simplified to allow anything before @gmail.com
+        // Change regex as needed, here simplified to allow anything before @gmail.com
         return /^[a-zA-Z0-9._%+-]+@gmail\.com$/i.test(email);
     }
 
